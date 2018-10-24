@@ -1,3 +1,4 @@
+//把0放在数组的最后，并且不改变数组的相对顺序
 public class MoveZeros {
     public void moveZeroes(int[] nums) {
         int nonZero = 0;

@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//找到数组中两个数之和为指定值
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         //Arrays.sort(nums);

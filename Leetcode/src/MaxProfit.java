@@ -1,3 +1,4 @@
+//一次买进一次卖出，找到最大的收益
 public class MaxProfit {
     public int maxProfit(int[] prices) {
         int buyIndex = 0 , sellIndex = 1;
