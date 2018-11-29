@@ -12,6 +12,7 @@ public class PascalTriangle {
         for(int i = 0 ; i < numRows ; i++){
             List<Integer> list = new ArrayList<>();
             list.add(1);
+            //if first array , fill itself and  continue to next
             if(i == 0) {
                 ret.add(list);
                 continue;
@@ -23,6 +24,7 @@ public class PascalTriangle {
                     list.add(last.get(j) + last.get(j+1));
                 }
             list.add(1);
+            //add current array into ret array
             ret.add(list);
         }
         return ret;
