@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ca34c6-4e6f-4e7e-acd0-172512f229cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/weekcontest158/QueenKingAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/weekcontest158/SplitBalanceString.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Leetcode$ThreeSum.ic" NAME="ThreeSum Coverage Results" MODIFIED="1544077462419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1667648565">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.5" value="11" />
+          <entry key="project.open.time.6" value="16" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="89" />
+          <entry key="kt" value="1" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="89" />
+          <entry key="Kotlin" value="1" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="36450" />
+          <entry key="txt" value="76" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="36450" />
+          <entry key="PLAIN_TEXT" value="77" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/ZerosAfterFactorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/TaskScheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/Q142RecycleList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/weekcontest158/SplitBalanceString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/weekcontest158/QueenKingAttack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/IsPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/LongestPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/ValidBrackets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/DelayQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1683">
+              <caret line="139" column="19" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/ExcelTitleToNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Leetcode/src/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/CountPrimes.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/IsPowerOfThree.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/HammingWeight.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/HammingDistance.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ReverseBits.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ValidBrackets.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/TwoSum.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/SetZeroes.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/IncreasingTriplet.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/OddEvenList.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/GetIntersectionNode.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/InorderTraversal.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ZigZagLevelOrder.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/BuildTree.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ConnectTreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/KthSmallest.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/NumIslands.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/GenerateParenthesis.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Permute.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/subsets.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Subsets.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/TopKFrequent.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/SearchRange.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/SearchOnRotatedList.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/SearchMatrix.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/JumpGame.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/CoinChange.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/HappyNumber.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ZerosAfterFactorial.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/ExcelTitleToNumber.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/MyPow.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/TaskScheduler.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Q142RecycleList.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/offeroffer/Packet.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/weekcontest158/SplitBalanceString.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/weekcontest158/QueenKingAttack.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="containsDuplicate" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Leetcode" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Leetcode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Leetcode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Leetcode" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="weekcontest158" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571295772073" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.QueenKingAttack">
+    <configuration name="ExcelTitleToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelTitleToNumber" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueenKingAttack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekcontest158.QueenKingAttack" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekcontest158.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitBalanceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekcontest158.SplitBalanceString" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekcontest158.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskScheduler" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZerosAfterFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZerosAfterFactorial" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ZerosAfterFactorial" />
+      <item itemvalue="Application.ExcelTitleToNumber" />
+      <item itemvalue="Application.TaskScheduler" />
+      <item itemvalue="Application.SplitBalanceString" />
+      <item itemvalue="Application.QueenKingAttack" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QueenKingAttack" />
+        <item itemvalue="Application.SplitBalanceString" />
+        <item itemvalue="Application.TaskScheduler" />
+        <item itemvalue="Application.ExcelTitleToNumber" />
+        <item itemvalue="Application.ZerosAfterFactorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ca34c6-4e6f-4e7e-acd0-172512f229cd" name="Default Changelist" comment="" />
+      <created>1541941991547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541941991547</updated>
+      <workItem from="1541941994019" duration="61000" />
+      <workItem from="1541951226749" duration="651000" />
+      <workItem from="1541999473597" duration="934000" />
+      <workItem from="1542028381248" duration="2512000" />
+      <workItem from="1542106171559" duration="1803000" />
+      <workItem from="1542116434655" duration="1190000" />
+      <workItem from="1542193960645" duration="2057000" />
+      <workItem from="1542375169131" duration="1688000" />
+      <workItem from="1542606007267" duration="2580000" />
+      <workItem from="1542616798344" duration="19000" />
+      <workItem from="1542627063227" duration="307000" />
+      <workItem from="1542650943653" duration="2806000" />
+      <workItem from="1542720481292" duration="3416000" />
+      <workItem from="1543218777289" duration="3567000" />
+      <workItem from="1543236748086" duration="5279000" />
+      <workItem from="1543468249995" duration="2439000" />
+      <workItem from="1544074359243" duration="5024000" />
+      <workItem from="1544100895387" duration="2695000" />
+      <workItem from="1544250909764" duration="5488000" />
+      <workItem from="1544442340309" duration="3817000" />
+      <workItem from="1544593766501" duration="5948000" />
+      <workItem from="1544775782711" duration="5836000" />
+      <workItem from="1545038824528" duration="13615000" />
+      <workItem from="1545220624143" duration="8717000" />
+      <workItem from="1545550230843" duration="5181000" />
+      <workItem from="1545792319642" duration="17495000" />
+      <workItem from="1546428663517" duration="4990000" />
+      <workItem from="1546689129395" duration="1431000" />
+      <workItem from="1546839123183" duration="6277000" />
+      <workItem from="1547035283985" duration="4892000" />
+      <workItem from="1547266649821" duration="577000" />
+      <workItem from="1556092124699" duration="104000" />
+      <workItem from="1558617569358" duration="1089000" />
+      <workItem from="1559647671536" duration="1651000" />
+      <workItem from="1570933972096" duration="2702000" />
+      <workItem from="1571295173661" duration="459000" />
+      <workItem from="1571298450774" duration="1010000" />
+    </task>
+    <task id="LOCAL-00008" summary="LeetCode Q198 : 打家劫舍">
+      <created>1542616321006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542616321007</updated>
+    </task>
+    <task id="LOCAL-00009" summary="LeetCode Q384 : 打乱数组">
+      <created>1542616596535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542616596535</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LeetCode Q155 : 最小栈">
+      <created>1542719691060</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542719691060</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LeetCode Q412 : FizzBuzz">
+      <created>1542871358634</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542871358634</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LeetCode Q204 : 计数质数">
+      <created>1542874751790</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542874751790</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Leetcode Q13 : 罗马数字转整数">
+      <created>1543224156110</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543224156110</updated>
+    </task>
+    <task id="LOCAL-00014" summary="LeetCode Q326 : 3的幂">
+      <created>1543224262230</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543224262230</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Leetcode Q191 : 位1的个数">
+      <created>1543237784978</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543237784978</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Leetcode Q461 : 汉明距离">
+      <created>1543238197706</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1543238197706</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Leetcode Q190 : 颠倒二进制位">
+      <created>1543372922795</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1543372922795</updated>
+    </task>
+    <task id="LOCAL-00018" summary="LeetCode Q118 :  杨辉三角">
+      <created>1543374510700</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1543374510700</updated>
+    </task>
+    <task id="LOCAL-00019" summary="LeetCode Q118 :  杨辉三角">
+      <created>1543468316922</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1543468316923</updated>
+    </task>
+    <task id="LOCAL-00020" summary="LeetCode Q20 : 有效的括号">
+      <created>1543469436106</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1543469436106</updated>
+    </task>
+    <task id="LOCAL-00021" summary="LeetCode Q268 : 缺失数字">
+      <created>1543472189437</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1543472189437</updated>
+    </task>
+    <task id="LOCAL-00022" summary="LeetCode Q15 : 三数之和">
+      <created>1544079795521</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544079795521</updated>
+    </task>
+    <task id="LOCAL-00023" summary="LeetCode Q73 : 矩阵置零">
+      <created>1544103843127</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544103843127</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Leetcode Q49 : 字母异位词分组">
+      <created>1544253759471</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1544253759471</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Leetcode  Q3 : 无重复字符的最长子串">
+      <created>1544259132986</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1544259132986</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Leetcode Q5: 最长回文子串">
+      <created>1544447641806</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1544447641807</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Leetcode Q334 : 递增的三元子序列">
+      <created>1544448124337</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1544448124337</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Leetcode Q2 : 两数相加">
+      <created>1544597891390</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1544597891390</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Leetcode Q328 : 奇偶链表">
+      <created>1544600937228</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544600937228</updated>
+    </task>
+    <task id="LOCAL-00030" summary="LeetCode Q160 : 相交链表">
+      <created>1544777331695</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1544777331695</updated>
+    </task>
+    <task id="LOCAL-00031" summary="LeetCode Q160 : 相交链表">
+      <created>1544958366724</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1544958366724</updated>
+    </task>
+    <task id="LOCAL-00032" summary="leetcode Q94 : 二叉树的中序遍历">
+      <created>1544958809480</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1544958809480</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Leetcode Q103 : 二叉树的锯齿形层次遍历">
+      <created>1544962722143</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1544962722143</updated>
+    </task>
+    <task id="LOCAL-00034" summary="添加生成二叉树的静态方法">
+      <created>1544962756014</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1544962756014</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Leetcode Q105 : 从前序与中序中序遍历序列构造二叉树">
+      <created>1545053945910</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1545053945910</updated>
+    </task>
+    <task id="LOCAL-00036" summary="LeetCode Q116 : 填充同一层的兄弟节点">
+      <created>1545140107491</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1545140107491</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Leetcode Q230 : 二叉搜索树中第k小的元素">
+      <created>1545148867837</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1545148867837</updated>
+    </task>
+    <task id="LOCAL-00038" summary="LeetCode Q200 : 岛屿的个数">
+      <created>1545224593124</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1545224593124</updated>
+    </task>
+    <task id="LOCAL-00039" summary="LeetCode Q17 : 电话号码的字母组合">
+      <created>1545382772577</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1545382772577</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Leetcode Q22 : 括号生成">
+      <created>1545550503727</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1545550503727</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Leetcode Q46 : 全排列">
+      <created>1545553626781</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1545553626781</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Leetcode Q78 : 子集">
+      <created>1545792652912</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1545792652923</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Leetcode Q347 : 前K个高频元素">
+      <created>1545803121923</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1545803121923</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Leetcode Q34 : 在排序数组中查找元素的第一个和最后一个位置">
+      <created>1545913726811</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1545913726811</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Leetcode Q56 : 合并区间">
+      <created>1545986350716</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1545986350716</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Leetcode Q33 : 搜索旋转排序数组">
+      <created>1545998960283</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1545998960283</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Leetcode Q240 : 搜索二维矩阵II">
+      <created>1546346543830</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1546346543830</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Leetcode Q55 : 跳跃游戏">
+      <created>1546351004657</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1546351004657</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Leetcode Q62 : 不同路径">
+      <created>1546429601465</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1546429601465</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Leetcode Q322 : 零钱兑换">
+      <created>1546435434027</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1546435434029</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Leetcode Q300 : 最长上升子序列">
+      <created>1546691506138</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1546691506139</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Leetcode Q202 : 快乐数">
+      <created>1546847509183</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1546847509184</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Leetcode Q172 : 阶乘后的零">
+      <created>1546850506079</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1546850506080</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Leetcode Q171 : Excel表列序号">
+      <created>1546852383220</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1546852383220</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Leetcode Q621 : 任务调度器">
+      <created>1547042078052</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1547042078053</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Leetcode Q142 : 寻找环的起点">
+      <created>1559217325889</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1559217325890</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130307000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18673219" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3280098" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.21566264" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.27149877" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode Q94 : 二叉树的中序遍历" />
+    <MESSAGE value="Leetcode Q103 : 二叉树的锯齿形层次遍历" />
+    <MESSAGE value="添加生成二叉树的静态方法" />
+    <MESSAGE value="Leetcode Q105 : 从前序与中序中序遍历序列构造二叉树" />
+    <MESSAGE value="LeetCode Q116 : 填充同一层的兄弟节点" />
+    <MESSAGE value="Leetcode Q230 : 二叉搜索树中第k小的元素" />
+    <MESSAGE value="LeetCode Q200 : 岛屿的个数" />
+    <MESSAGE value="LeetCode Q17 : 电话号码的字母组合" />
+    <MESSAGE value="Leetcode Q22 : 括号生成" />
+    <MESSAGE value="Leetcode Q46 : 全排列" />
+    <MESSAGE value="Leetcode Q78 : 子集" />
+    <MESSAGE value="Leetcode Q347 : 前K个高频元素" />
+    <MESSAGE value="Leetcode Q34 : 在排序数组中查找元素的第一个和最后一个位置" />
+    <MESSAGE value="Leetcode Q56 : 合并区间" />
+    <MESSAGE value="Leetcode Q33 : 搜索旋转排序数组" />
+    <MESSAGE value="Leetcode Q240 : 搜索二维矩阵II" />
+    <MESSAGE value="Leetcode Q55 : 跳跃游戏" />
+    <MESSAGE value="Leetcode Q62 : 不同路径" />
+    <MESSAGE value="Leetcode Q322 : 零钱兑换" />
+    <MESSAGE value="Leetcode Q300 : 最长上升子序列" />
+    <MESSAGE value="Leetcode Q202 : 快乐数" />
+    <MESSAGE value="Leetcode Q172 : 阶乘后的零" />
+    <MESSAGE value="Leetcode Q171 : Excel表列序号" />
+    <MESSAGE value="Leetcode Q621 : 任务调度器" />
+    <MESSAGE value="Leetcode Q142 : 寻找环的起点" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode Q142 : 寻找环的起点" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/GenerateParenthesis.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Permute.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TopKFrequent.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TopKFrequent.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>ret</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/MissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/SetZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/GroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/TreeHeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/IncreasingTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/OddEvenList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/GetIntersectionNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/InorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ZigZagLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/BuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ConnectTreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/KthSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/NumIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/GenerateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/SortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/TopKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#1231#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/SearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/SearchOnRotatedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/SearchMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/JumpGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/MyPow.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5506">
+          <caret line="385" column="17" selection-start-line="385" selection-start-column="17" selection-end-line="385" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/offeroffer/Packet.java" />
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/HappyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ZerosAfterFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/TaskScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Q142RecycleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/weekcontest158/SplitBalanceString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/DelayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ExcelTitleToNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/weekcontest158/QueenKingAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/ValidBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

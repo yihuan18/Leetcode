@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestValidParentheses/LongestValidParentheses.iml" filepath="$PROJECT_DIR$/LongestValidParentheses/LongestValidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NthDigit/NthDigit.iml" filepath="$PROJECT_DIR$/NthDigit/NthDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotateArray/RotateArray.iml" filepath="$PROJECT_DIR$/RotateArray/RotateArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/WordBreak/WordBreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/containsDuplicate/containsDuplicate.iml" filepath="$PROJECT_DIR$/containsDuplicate/containsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deleteInvalidParentheses/deleteInvalidParentheses.iml" filepath="$PROJECT_DIR$/deleteInvalidParentheses/deleteInvalidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intersect/intersect.iml" filepath="$PROJECT_DIR$/intersect/intersect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plusOne/plusOne.iml" filepath="$PROJECT_DIR$/plusOne/plusOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleNumber/singleNumber.iml" filepath="$PROJECT_DIR$/singleNumber/singleNumber.iml" />
+    </modules>
+  </component>
+</project>
